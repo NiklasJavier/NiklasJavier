@@ -1,7 +1,7 @@
 ## Hi there 👋
-![Niklas GitHub stats](https://github-readme-stats.vercel.app/api?username=NiklasJavier&show_icons=true&theme=cambient_gradient&rank_icon=github)
+![Niklas GitHub stats](https://github-readme-stats.vercel.app/api?username=NiklasJavier&show_icons=true&theme=ambient_gradient&rank_icon=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=ambient_gradient)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiklasJavier&layout=compact&theme=ambient_gradient)
 
 <!--
 **NiklasJavier/NiklasJavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
