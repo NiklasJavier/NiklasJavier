@@ -1,5 +1,7 @@
 ## Hi there 👋
-![Niklas GitHub stats](https://github-readme-stats.vercel.app/api?username=NiklasJavier&show_icons=true&theme=dracula)
+![Niklas GitHub stats](https://github-readme-stats.vercel.app/api?username=NiklasJavier&show_icons=true&theme=calm_pink)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiklasJavier&hide_progress=true)
 
 <!--
 **NiklasJavier/NiklasJavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
