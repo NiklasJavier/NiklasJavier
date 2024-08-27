@@ -24,6 +24,10 @@
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
       <br>TypeScript
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ansible" width="48" height="48" alt="Ansible" />
+    <br>Ansible
+   </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -46,6 +50,10 @@
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
     </td>
+  <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
+  <br>Terraform
+</td>
   </tr>
  <tr>
       <td align="center" width="96">
@@ -69,6 +77,10 @@
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
+    <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+</td>
  </tr>
 </table>
 <br><br>
