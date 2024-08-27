@@ -1,9 +1,10 @@
-# GitHub Stats & My favorite tools and technologies
+# GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NiklasJavier&show_icons=true&theme=dracula&rank_icon=github" alt="Niklas GitHub stats" style="display: inline-block; margin-right: 10px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiklasJavier&layout=compact&theme=dracula" alt="Top Langs" style="display: inline-block;" />
 </div>
 
+# My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
