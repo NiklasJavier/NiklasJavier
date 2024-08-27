@@ -1,5 +1,11 @@
-![Niklas GitHub stats](https://github-readme-stats.vercel.app/api?username=NiklasJavier&show_icons=true&theme=dracula&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiklasJavier&layout=compact&theme=dracula)
+# Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NiklasJavier&show_icons=true&theme=dracula&rank_icon=github" alt="Niklas GitHub stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiklasJavier&layout=compact&theme=dracula" alt="Top Langs" />
+</div>
 
 # My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
