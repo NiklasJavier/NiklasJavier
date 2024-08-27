@@ -1,13 +1,9 @@
-# Stats
+# GitHub Stats & My favorite tools and technologies
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NiklasJavier&show_icons=true&theme=dracula&rank_icon=github" alt="Niklas GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NiklasJavier&show_icons=true&theme=dracula&rank_icon=github" alt="Niklas GitHub stats" style="display: inline-block; margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiklasJavier&layout=compact&theme=dracula" alt="Top Langs" style="display: inline-block;" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiklasJavier&layout=compact&theme=dracula" alt="Top Langs" />
-</div>
-
-# My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -81,15 +77,7 @@
  </tr>
 </table>
 <br><br>
-
-
 </div>
-
-
-</div>
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
 <!--
 **NiklasJavier/NiklasJavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
