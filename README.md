@@ -1,4 +1,4 @@
-Founder of [ErynoaGroup](https://github.com/ErynoaGroup). I build software and infrastructure, mostly in Rust and Nix.
+[ErynoaGroup](https://github.com/ErynoaGroup). I build software and infrastructure, mostly in Rust and Nix.
 
 I study Wirtschaftsinformatik (business informatics).
 
