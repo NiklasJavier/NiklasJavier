@@ -1,4 +1,4 @@
-[ErynoaGroup](https://github.com/ErynoaGroup). I build software and infrastructure, mostly in Rust and Nix.
+I build software and infrastructure, mostly in Rust and Nix.
 
 I study Wirtschaftsinformatik (business informatics).
 
