@@ -1,6 +1,5 @@
-I build software and infrastructure, mostly in Rust and Nix.
-
-I study Wirtschaftsinformatik (business informatics).
+I build software and infrastructure, mostly in Rust, Java and Nix 
+& I study Wirtschaftsinformatik (business informatics).
 
 **Current focus:** Rust · Nix · Network & Edge (Cloudflare)
 
